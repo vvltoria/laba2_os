@@ -1,5 +1,5 @@
 #include "gtest/gtest.h"
-#include "functions.h"
+#include "../non_winapi/functions.h"
 #include <vector>
 
 TEST(ComputeMinMaxTest, BasicTest) {
